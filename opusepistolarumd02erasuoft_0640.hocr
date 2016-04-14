@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusepistolarumd02erasuoft/opusepistolarumd02erasuoft_0640.png"; bbox 0 0 2010 3417; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 767 1490 1451 1624">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 767 1490 1451 1624">
+     <span class='ocr_line' id='line_1_1' title="bbox 767 1490 1451 1513; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 767 1491 921 1513; x_wconf 71' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_2' title='bbox 946 1492 990 1512; x_wconf 78' lang='lat' dir='ltr'>AT</span> <span class='ocrx_word' id='word_1_3' title='bbox 1011 1491 1083 1513; x_wconf 80' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1107 1490 1322 1513; x_wconf 68' lang='lat' dir='ltr'>CLARENDON</span> <span class='ocrx_word' id='word_1_5' title='bbox 1349 1491 1451 1513; x_wconf 75' lang='lat' dir='ltr'>PREss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 880 1546 1330 1573; baseline 0.002 -6"><span class='ocrx_word' id='word_1_6' title='bbox 880 1546 926 1568; x_wconf 77' lang='grc' dir='ltr'>ΒΥ</span> <span class='ocrx_word' id='word_1_7' title='bbox 950 1546 1092 1568; x_wconf 76' lang='lat' dir='ltr'>HORACE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1115 1546 1224 1573; x_wconf 77' lang='lat' dir='ltr'><strong>HART,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1251 1547 1330 1569; x_wconf 80' lang='lat' dir='ltr'><strong>M.A.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 833 1600 1387 1624; baseline -0.004 0"><span class='ocrx_word' id='word_1_10' title='bbox 833 1602 987 1624; x_wconf 68' lang='lat' dir='ltr'>PRINTER</span> <span class='ocrx_word' id='word_1_11' title='bbox 1010 1601 1052 1623; x_wconf 83' lang='lat' dir='ltr'>To</span> <span class='ocrx_word' id='word_1_12' title='bbox 1075 1601 1146 1623; x_wconf 76' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_13' title='bbox 1171 1600 1387 1623; x_wconf 70' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
